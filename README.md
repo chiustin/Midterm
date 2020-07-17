@@ -1,10 +1,15 @@
-# Midterm
+# 考試須知
 
-## Question1
-![image](https://github.com/chiustin/Midterm/blob/master/Question1.gif)
+* 可以看講義或者輸入關鍵字請教google大神有關Python語法。
 
-## Question2
-![image](https://github.com/chiustin/Midterm/blob/master/Question2.gif)
+* 公平起見，請勿交談，這非常非常重要!
 
-## Question3
-![image](https://github.com/chiustin/Midterm/blob/master/Question3.gif)
+* 四點考試結束後，請勿再編輯檔案，我這邊會有紀錄喔!違者0分計算。
+
+* 如果Repl.it突然開不起來，可以改用jupyterLab編程，並且在"16:10前"將ipynb檔寄到hayato655169@gmail.com，但不保證檔案傳到我電腦一定都開的起來喔QQ
+
+* 有幾位同學要另外安排時間補考，請勿洩題，感謝大家配合。
+
+* Question2第一小題請大家使用function，並將10跟50代入function的argument來求解。
+
+* 有同學不是化工化學相關科系，所以Question3盡量引導大家怎麼編程，希望大家可以透過這些題目了解怎麼去寫Python，最後祝大家考試順利。
